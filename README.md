@@ -15,3 +15,6 @@ O código dominance define a dominância entre os pontos
 
 ### Exemplo de execução
 ![](img%20multi/multi_dominance.png)
+
+
+#### Por José Geraldo
